@@ -53,3 +53,7 @@ https://app.gather.town/app/IkUdKUAtfbbl0nlO/java-study
 #### 불가피한 일정이 존재 시 일주일 전 미리 연락(최대 2번)
 #### 매 스터디 종료 시 공부한 내용 및 예제 깃에 커밋
 - 깃 주소 : https://github.com/GodOfJavaStudy/JavaStudy
+
+
+## 공부하는 모습
+![Java-Study](./images/Java-Study.png)
