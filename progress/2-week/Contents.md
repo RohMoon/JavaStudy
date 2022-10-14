@@ -1,0 +1,19 @@
+## 2주차
+
+### 🙋🙋‍♀️ 발표
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1, 2 : 김영재 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 : 김명진
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 : 노상문
+
+### 차 주 공부 시간
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```10월 01일 토요일 09:00```
+
+### 📝 발표 준비 범위
+- ```5장``` - ```허보름```
+- ```6장``` - ```이현정```
+
+### 📝 특이사항
+- ```2조 이성연``` : 회사 프로젝트 마감으로 인한 주말 출근
+
+### 출석 체크
+![check](attendance_check_2-week.png)
